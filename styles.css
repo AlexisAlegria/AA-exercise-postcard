@@ -72,3 +72,11 @@ input {
 	border-bottom: 1px solid gray;
 	text-align: center;
 }
+.send-btn{
+	cursor: pointer;
+}
+.send-btn:hover{
+	background-color: gray;
+	color: white;
+	font-size: 500;
+}
